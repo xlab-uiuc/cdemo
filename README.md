@@ -1,6 +1,6 @@
-# cdemo: A simple demo to teach how to do configuration analysis using Soot
+# A simple demo to teach how to do configuration analysis using Soot
 
-This is perhaps the simplest demo I can think of to show how to build configuration analysis tools for Java programs using Soot.
+`cdemo` is perhaps the simplest demo I can think of to show how to build configuration analysis tools for Java programs using Soot.
 
 The demo does nothing but prints out the entry points of configuration values.
 
